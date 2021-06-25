@@ -16,7 +16,7 @@ for(i=1;i<=n;i++)
  {
    
    if ( i % 2 == 0 )
-      continue;
+       continue;
   sum = sum + i;
   }
 //Fill the missing code
