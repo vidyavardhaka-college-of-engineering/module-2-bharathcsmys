@@ -18,7 +18,7 @@ int main()
  
   scanf("%d", &search);
 
-  for (c = 0; c < n; c++)
+   for (c = 0; c < n; c++)
   {
     if (array[c] == search)    /* If required element is found */
     {
