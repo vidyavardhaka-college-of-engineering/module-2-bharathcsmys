@@ -18,8 +18,8 @@ int main()
         scanf("%d",&arr[i]);//missing code
     }
 
-    evennum = 0; // Assuming 0 even numbers
-    oddnum  = 0; // Assuming 0 odd numbers
+     evennum = 0; // Assuming 0 even numbers
+     oddnum  = 0; // Assuming 0 odd numbers
 
     for(i=0; i<num; i++)
     {
