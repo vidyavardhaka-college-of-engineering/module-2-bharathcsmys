@@ -11,7 +11,7 @@ int main() {
  // Fill the code in scanf()
 	do {
 		printf("I Love VVCE ");
-		i++;
+		 i++;
 		// complete the statement
 	} while(i<=n);
 	return(0);// complete the condition
