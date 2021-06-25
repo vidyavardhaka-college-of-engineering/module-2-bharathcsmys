@@ -1,3 +1,4 @@
+  
 //PRINTING THE INPUT "N"number of times
 //INPUT -3
 //OUTPUT- I Love VVCE I Love VVCE I Love VVCE
@@ -12,6 +13,6 @@ int main() {
 		printf("I Love VVCE ");
 		i++;
 		// complete the statement
-	} while(i<=);
+	} while(i<=n);
 	return(0);// complete the condition
 }
