@@ -11,8 +11,8 @@ int main(){
   //printf("Enter an integer value : ");
   scanf("%d",&key);
   
-    for(i=0;i<n;i++){
-  if(key==a[]) //missing code
+  for(i=0;i<n;i++){
+  if(key==a[i]) //missing code
   {
     //flag=1;
     c++;
@@ -23,5 +23,3 @@ int main(){
     
     return(0);
 }
-
-

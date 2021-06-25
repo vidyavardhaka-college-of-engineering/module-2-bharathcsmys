@@ -18,7 +18,7 @@ int main()
  
   scanf("%d", &search);
 
-  for (c = 0; c < n; c++)
+   for (c = 0; c < n; c++)
   {
     if (array[c] == search)    /* If required element is found */
     {
@@ -28,7 +28,7 @@ int main()
     }
   }
   if (c == n)
-    printf("%d is not present in the array", );
+    printf("%d is not present in the array", search);
 
   return 0;
 }
