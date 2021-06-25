@@ -16,8 +16,8 @@ int main()
  
    for (i = 0; i < n; i++)
    {
-      scanf("%d", &a[i]);
-      sum=sum+a[i]; 
+       scanf("%d", &a[i]);
+       sum=sum+a[i]; 
    }
  printf("Sum of elements=%d",sum );
  
